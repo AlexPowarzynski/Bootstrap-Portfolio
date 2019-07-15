@@ -53,3 +53,6 @@ body {
     border-top-color: teal;
     border-top-width: 4px;
 }
+.nav-link:hover {
+    color: darkgrey;
+}
