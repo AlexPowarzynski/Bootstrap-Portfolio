@@ -1,7 +1,8 @@
 .name {
     background-color: teal;
     padding: 10px 0 10px 10px;
-    margin-right: 40px;
+    margin-right: 50px;
+    margin-left: -15px;
 }
 .whtext {
     color: white
@@ -54,6 +55,13 @@ body {
     border-top-color: teal;
     border-top-width: 4px;
 }
-.nav-link:hover {
-    color: darkgrey;
+.buttonColor {
+    background-color: teal;
+    color: white;
+}
+.buttonColor:hover {
+    background-color: darkslategray;
+}
+.fill {
+    width: 100%;
 }
