@@ -1,0 +1,55 @@
+.name {
+    background-color: teal;
+    padding: 10px 0 10px 10px;
+    margin-right: 40px;
+}
+.whtext {
+    color: white
+}
+
+#headAM {
+    color: teal;
+    border-bottom-style: solid;
+    border-bottom-color: #dddddd;
+}
+.mainContent {
+    color: #777777;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: white;
+}
+
+#img {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    float:left;
+}
+.borderbot {
+    border-style: solid;
+    border-width: 0 0 2px 0;
+    border-color: #ddd; 
+    width: 100%;
+    background-color: white;
+}
+.topfix {
+    margin: 8px 0 -8px;
+}
+.navvy {
+    color: grey;
+    display: inline;
+    
+}
+body {
+    background-image: url("assets/images/papyrus.png");
+    background-color: white;
+    background-position: center;
+    background-size: 100%;
+}
+.footer {
+    background-color: #666;
+    color: white;
+    border-top-style: solid;
+    border-top-color: teal;
+    border-top-width: 4px;
+}
